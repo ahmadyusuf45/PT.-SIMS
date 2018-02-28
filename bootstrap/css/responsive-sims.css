@@ -1,0 +1,259 @@
+@media(max-width: 1024px){
+		#skin-slide{
+			height: 427px;
+		}
+		#skin-all-slide{
+			height: 427px;
+		}
+		#slider .image-slide{
+			max-width: 85%;
+			margin-left: 7.5%;
+		}
+		.skin-deep-slide{
+			margin-left: -10px;
+		}
+		#skin-logo{
+			margin-top: 1%;
+			height: 95px;
+		}
+		#item-logo img{
+			width: 17%;
+			margin-left: 40%;
+		}
+		#skin-menu{
+			height: 300px;
+			margin-top: -17%;
+		}
+		#skin-menu #box-menu{
+			margin-top: 5%;
+		}
+		#item-menu img{
+			width: %;
+		}
+		#list-menu img{
+			width: %;
+		}
+		#list-menu{
+			margin-top: -2%;
+			margin-left: 1%;
+		}
+		.item-page-profil-img{
+			margin-left: 25%;
+		}
+		.skin-page-galery{
+			margin-left: 2%;
+		}
+		.item-page-detail-layanan-img , .item-page-detail-csr-img , .item-page-detail-promo-img{
+			margin-left: 20%;
+		}
+	}
+	@media(max-width: 768px){
+		#skin-logo{
+			margin-top: 50px;
+			height: 150px;
+		}
+		#skin-slide{
+			height: 380px;
+		}
+		#skin-all-slide{
+			height: 380px;
+		}
+		#slider .image-slide{
+			max-width: 100%;
+			margin-left: 1%;
+		}
+		#item-logo img{
+			width: 30%;
+			margin-left: 35%;
+		}
+		#item-menu img{
+			width: 75%;
+			margin-left: 15%;
+		}
+		#list-menu img{
+			width: 52%;
+			margin-left: 25%;
+		}
+		#skin-menu {
+			margin-top: -18%;
+		}
+		#skin-menu #box-menu{
+			margin-top: 5%;
+		}
+		.exit{
+			width: 8%;
+		}
+		.item-page-profil-img{
+			width: 50%;
+		}
+		.item-gallery{
+			width: 200px;
+		}
+		.list-img-layanan{
+			width: 180px;
+		}
+		.item-page-detail-layanan-img , .item-page-detail-csr-img , .item-page-detail-promo-img{
+			width: 350px;
+			margin-left: 25%;
+		}
+	}
+	@media(max-width: 414px){
+		#skin-home{
+			overflow: auto;
+			height: auto;
+		}
+		#skin-logo{
+			margin-top: 10px;
+			height: 80px;
+		}
+		#skin-slide{
+			height: 200px;
+		}
+		#skin-all-slide{
+			height: 200px;
+		}
+		#slider{
+			margin-left: 10px;
+		}
+		.image-slide{
+			width: 590px;
+		}
+		#item-menu img{
+			width: 20%;
+			margin-left: 40%;
+			margin-bottom: 5%;
+		}
+		#list-menu img{
+			width: 18%;
+			margin-left: 10.5%;
+			margin-bottom: 2%;
+		}
+		.exit{
+			width: 15%;
+		}
+		.item-page-detail-layanan-img , .item-page-detail-csr-img , .item-page-detail-promo-img{
+			width: 250px;
+			margin-left: 15%;
+		}
+		.item-gallery{
+			width: 170px;
+		}
+		.item-isi-artikel{
+			display: none;
+		}
+		.list-img-layanan{
+			width: 160px;
+		}
+		.skin-page-csr h3, .skin-page-layanan h3, .skin-page-promo h3{
+			font-size: 22px;
+		}
+	}
+	@media(max-width: 375px){
+		#skin-logo{
+			height: 80px;
+		}
+		#skin-slide{
+			height: 150px;
+		}
+		#skin-all-slide{
+			height: 150px;
+		}
+
+		#slider .image-slide{
+			margin-left: -1%;
+			max-width: 100%;
+		}
+		#skin-menu{
+			margin-top: -10%;
+		}
+		.item-gallery{
+			width: 160px;
+		}
+		.list-img-layanan{
+			width: 150px;
+		}
+		.skin-page-csr h3, .skin-page-layanan h3, .skin-page-promo h3{
+			font-size: 20px;
+		}
+	}
+	@media(max-width: 320px){
+		#skin-logo{
+			margin-top: 20%;
+			height: 35px;
+		}
+		#skin-slide{
+			height: 130px;
+		}
+		#skin-all-slide{
+			height: 130px;
+		}
+		.image-slide{
+			margin-top: 5%;
+			margin-left: 15px;
+		}
+		#item-menu img{
+			margin-bottom: 2%;
+		}
+		#skin-menu #box-menu{
+			margin-top: 5%;
+		}
+		.list-img-layanan{
+			width: 130px;
+		}
+		.exit{
+			width: 20%;
+		}
+		.item-page-detail-layanan-img , .item-page-detail-csr-img , .item-page-detail-promo-img{
+			margin-left: 7%;
+		}
+		.item-page-profil-img{
+			width: 73%;
+			margin-left: 13%;
+		}
+		.item-gallery{
+			width: 180px;
+		}
+		.skin-page-csr h3, .skin-page-layanan h3, .skin-page-promo h3{
+			font-size: 19px;
+		}
+	}
+	@media(max-width: 412px){
+		#skin-slide{
+			height: 140px;
+		}
+		#skin-all-slide{
+			height: 140px;
+		}
+		#slider .image-slide{
+			margin-left: 0px;
+			margin-top: 1%;
+		}
+		#skin-menu{
+			margin-top: 1%;
+		}
+		#skin-menu #box-menu{
+			margin-top: 3%;
+		}
+		#item-menu img{
+			margin-bottom: 3%;
+		}
+		#skin-logo{
+			height: 75px;
+			margin-top: 20%;
+		}
+		.item-page-profil-img{
+			width: 75%;
+			margin-left: 13%;
+		}
+	}
+	@media(max-width: 360px){
+		.list-img-layanan{
+			width: 120px;
+		}
+		.item-page-detail-layanan-img , .item-page-detail-csr-img , .item-page-detail-promo-img{
+			margin-left: 13%;
+		}
+		.item-fil-gallery{
+			margin-left: -7%;
+		}
+	}

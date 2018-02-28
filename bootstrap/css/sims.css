@@ -1,0 +1,176 @@
+	*{
+		margin: 0px;
+		padding: 0px;
+		font-family: 'Asap Condensed', sans-serif;
+	}
+.col-sm-7, .col-sm-4,.col-sm-2,.col-sm-3,.col-sm-5,.col-sm-6 , .col-md-12, .col-md-11 , .col-md-10 , .col-md-9 , .col-md-8 , .col-md-7 , .col-md-6 , .col-md-5 , .col-md-4 , .col-md-3, .col-md-2, .col-md-1, .col-lg-12, .col-lg-11 , .col-lg-10 , .col-lg-9 , .col-lg-8 , .col-lg-7 , .collgd-6 , .col-lg-5 , .col-lg-4 , .col-lg-3{
+	}
+	.exit{
+		width: 5%;
+		float: right;
+		padding: 5px 5px 5px 5px;
+		background-color: #ff0000;
+	}
+	.exit a{
+		text-decoration: none;
+		color: #fff;
+	}
+	.exit h3{
+		color: #fff;
+		margin-top: 10px;
+		text-align: center;
+	}
+	#exit-biru{
+		float: left;
+		background-color: #3d5aed
+	}
+	.content{
+		width: 100%;
+		height: auto;
+		background-color: #fff;
+	}
+	.content h1{
+		padding-bottom: 5px;
+	}
+	.judul-text{
+		border-bottom: 1px solid#000;
+	}
+	#list-menu{
+		margin-left: 1.5%;
+		display: none;
+	}
+	#list-menu img{
+		margin-top: 3%;
+		width: 19%;
+		margin-left: 10%;
+	}
+	#item-menu img{
+		width: 32%;
+		margin-left: 35%;
+	}
+	.img-menu{
+		border-radius: 100%;
+		transition-property: all;
+		transition-duration: 0.3s;
+	}
+	.img-menu:hover{
+		box-shadow: 0px 3px 13px 0px rgba(0,0,0,0.83);
+	}
+	#skin-home{
+  		width: 100%;
+  		height: 100%;
+  		background-image: url('../../img/back-jdn.png');
+  		background-size: cover;
+ 		position: fixed;
+  		background-position: 50% 50%;
+  		background-repeat: no-repeat;
+	}
+	#skin-logo{
+		
+		height: 100px;
+		margin-top: 30px;
+		
+	}
+	#skin-slide{
+		height: 350px;
+		
+	}
+	#skin-all-slide{
+		width: auto;
+	
+		height: 348px;
+	}
+	#slider .image-slide{
+		width: 100%;
+	}
+	.skin-deep-slide{
+		margin-left: 110px;
+	}
+	#slider .image-slide{
+		box-shadow: -2px 5px 12px -3px rgba(0,0,0,0.75);
+	}
+	#skin-menu{
+		height: 200px;
+		
+	}
+	#skin-menu #box-menu{
+	
+		margin-top: 4%;
+	}
+	#item-logo img{
+		width: 180px;
+		margin-left: 45%;
+	}
+
+
+	.list-layanan{
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+	.list-img-layanan{
+		width: 280px;
+	}
+	.item-page-profil-img{
+		width: 450px;
+		margin-left: 29%;
+	}
+	.item-page-kontak-img{
+		width: 50px;
+	}
+	.btn-galery{
+		margin-left: 10px;
+		margin-bottom: 5px;
+		display: inline;
+		background-color: transparent;
+		border: 2px solid#000;
+	}
+	.btn-galery:hover{
+		transition: 0.5s all;
+		background-color: #ffbf00;
+		border: 1px solid transparent;
+		color: #fff;
+	}
+	.item-gallery{
+	width: 300px;
+	}
+	.skin-page-layanan a{
+		text-decoration: none;
+		color: #ffcc00;
+	}
+	.skin-page-csr a{
+		text-decoration: none;
+		color: #ffcc00;
+	}
+	.skin-page-promo a{
+		text-decoration: none;
+		color: #ffcc00;
+	}
+	.item-page-detail-layanan-img{
+		width: 570px;
+		margin-bottom: 10px;
+		margin-left: 300px;
+	}
+	.item-page-detail-csr-img{
+		width: 570px;
+		margin-bottom: 10px;
+		margin-left: 300px;
+	}
+	.item-page-detail-promo-img{
+		width: 570px;
+		margin-bottom: 10px;
+		margin-left: 300px;
+	}
+	.skin-page-galery{
+		margin-left: 10%;
+	}
+	.pagination{
+		float: left;
+		margin-left: 15px;
+	}
+	.judul-page{
+		text-transform: capitalize;
+		font-weight: bold;
+		color: #0048ff;
+		float: left;
+		margin-left: 3%;
+	}

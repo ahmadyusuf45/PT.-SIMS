@@ -1,0 +1,128 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Raleway', sans-serif;
+}
+.header{
+	background: #314d68;
+	width: 100%;
+	height: 70px;
+}
+.header .logo{
+	float: left;
+}
+.logo .satu{
+	color: #fff;
+	margin-top: -52px;
+	margin-left: 135%;
+}
+.logo .dua{
+	text-transform: uppercase;
+	color: #fff;
+	margin-top: -44px;
+	margin-left: 240%;
+}
+.logo img{ 
+	width: 130px;
+	height: 70px;
+	margin-left: 50%;
+}	
+
+.logo h1{
+	color: #007ccc;
+	margin-top: -32%;
+	margin-left: 20px;
+}
+.logout{
+	float: right;
+	margin-right: 45px;
+	margin-top: 13px;
+	color: #000;
+	font-size: 30px;
+	border :3px solid #fff;
+	border-radius:100%;
+	width: 45px;
+	height: 45px;
+}
+.logout a{
+	color: #fff;
+	margin-left: 4px; 
+}
+.menu_header{
+	display: none;
+	width: 100%;
+	height: auto;
+	float: left;
+	background-color: #ccced1;
+}
+.menu_header section a{
+	display: block;
+	cursor: pointer;
+	padding: 2%;
+	padding-left: 20px;
+	font-size: 20px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	text-decoration: none;
+}
+.menu_header section a:hover{
+	transition: 0.5s all;
+	background-color: #164775;
+	color:#fff ;
+}
+.menu_kiri{
+	float: left;
+	background-color: #d3d2d8;
+	width: 15.5%;
+	height: 2000px;
+	box-shadow: 6px -5px 34px -6px rgba(0,0,0,0.75);
+}
+.menu_kiri section a{
+	display: block;
+	text-decoration: none;
+	color: #000;
+	padding-left: 20px;
+	font-size: 20px;
+	padding-top: 8px;
+	padding-bottom: 8px;		
+}
+.menu_kiri section a:hover{
+	transition: 0.5s all;
+	background-color: #164775;
+	color: #fff; 
+}
+.content{
+	float: left; 
+	width: 80%;
+	height: auto;
+	margin-top: 20px;
+	margin-left: 30px;
+}
+.content h1{
+	text-transform: capitalize;
+	padding-bottom: 5px;
+	border-bottom: 2px solid #000;
+}
+@media(max-width: 1024px){
+	.menu_kiri{
+		display: none;
+	}
+	.content{
+		width: 95%;
+	}
+	h2{
+		margin-left: 10%;
+	}
+}
+h2{
+	border-bottom: 1px solid #164775; 
+}
+#btn-kanan{
+	float: right;
+}
+.drop-menu-kiri{
+	background-color: #b0b0b2;
+}
+.item-page-identitas-img{
+	width: 50%;
+}
